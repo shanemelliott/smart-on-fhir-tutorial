@@ -1,0 +1,28 @@
+{
+  "name": "smart-on-fhir-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shanemelliott/smart-on-fhir-tutorial.git"
+  },
+  "keywords": [
+    "cerner",
+    "smart",
+    "fhir"
+  ],
+  "author": "shane.elliott@v.gov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shanemelliott/smart-on-fhir-tutorial/issues"
+  },
+  "homepage": "https://github.com/shanemelliott/smart-on-fhir-tutorial#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "html": "^1.0.0"
+  }
+}
